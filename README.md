@@ -17,7 +17,7 @@ Sounds:
 </ul>
 
 
-Sounds turned into spectrograms. Images are converted to grayscale, resized and normalized. Then, data is splitted for train, validation and training. After preprocessing, the model is created and trained. Also, visualized the loss and accuracy for the trained model.
+Sounds turned into spectrograms. Images are converted to grayscale, resized, and normalized. Then, data is split for training, validation, and training. After preprocessing, the model is created and trained. Also, the loss and accuracy of the trained model are visualized.
 
 UrbanSounds8K dataset: https://urbansounddataset.weebly.com/urbansound8k.html
 <br/>
